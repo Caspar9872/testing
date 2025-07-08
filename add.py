@@ -1,4 +1,5 @@
 x = 1
 y = 2
-print(x+y)
+answer = x+y
+print(answer)
 print("MORNING")
